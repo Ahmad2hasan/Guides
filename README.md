@@ -1,4 +1,4 @@
-# Guides
+# installation Guides for front end and backend
 This makes it easy for programmers to create projects easily without the hassle and time wasted searching for sources and adding some notes.
 
 
@@ -8,7 +8,7 @@ This makes it easy for programmers to create projects easily without the hassle 
 
 ___________________________________________________
 
-### 4 front end only
+###  front end guides to work and flow
 
 #### To prepare the project and download the packages
 
